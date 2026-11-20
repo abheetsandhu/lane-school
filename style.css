@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #d8eeea; color: #183734; font: 1.05rem/1.55 system-ui, sans-serif; }
+main { max-width: 38rem; margin: clamp(1rem, 8vh, 5rem) auto; padding: clamp(1.5rem, 5vw, 3rem); background: #fffefa; border-top: .5rem solid #15685c; }
+header { border-bottom: 1px solid #aac6bf; margin-bottom: 2rem; }
+header p, small { font-weight: 600; color: #41685f; }
+h1, h2 { font-family: Georgia, serif; font-weight: 400; line-height: 1.12; }
+h1 { font-size: clamp(3rem, 9vw, 5rem); margin: .4rem 0 1.3rem; }
+h2 { font-size: 2rem; }
+select, button { padding: .7rem 1rem; font: inherit; border: 1px solid #698580; border-radius: .3rem; }
+select { display: block; width: 100%; margin: .5rem 0 1rem; background: white; }
+button { background: #165c52; color: white; cursor: pointer; margin: .2rem 0; }
+.plain { color: #165c52; background: white; }
+:focus-visible { outline: 3px solid #b44716; outline-offset: 3px; }
