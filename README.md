@@ -1,8 +1,8 @@
 # Lane School
 
-[Try the swim lesson booking demo](https://abheetsandhu.github.io/lane-school/) · [View my full portfolio](https://abheet-sandhu-selected-work.roundmusic128.chatgpt.site/)
+[Try the swim lesson booking demo](https://abheetsandhu.github.io/lane-school/) · [View my full portfolio](https://abheetsandhu.github.io/lane-school/portfolio/)
 
-<img src="https://abheet-sandhu-selected-work.roundmusic128.chatgpt.site/lane-school/mobile.jpg" width="270" alt="Lane School mobile screen recommending Water discovery for a first-time swimmer">
+<img src="https://abheetsandhu.github.io/lane-school/portfolio/lane-school/mobile.jpg" width="270" alt="Lane School mobile screen recommending Water discovery for a first-time swimmer">
 
 
 A mobile-friendly swim lesson booking prototype by Abheet Sandhu. Parents choose a lesson based on what their swimmer can already do, compare sample sessions and review their selection before confirming a demo booking.
