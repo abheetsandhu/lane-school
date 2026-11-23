@@ -1,6 +1,6 @@
 # Lane School
 
-[Try the swim lesson booking demo](https://abheetsandhu.github.io/lane-school/)
+[Try the swim lesson booking demo](https://abheetsandhu.github.io/lane-school/) · [View my full portfolio](https://abheet-sandhu-selected-work.roundmusic128.chatgpt.site/)
 
 <img src="https://abheet-sandhu-selected-work.roundmusic128.chatgpt.site/lane-school/mobile.jpg" width="270" alt="Lane School mobile screen recommending Water discovery for a first-time swimmer">
 
