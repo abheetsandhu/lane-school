@@ -1,0 +1,14 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #132422; color: #edf6ef; font: 1.05rem/1.55 system-ui, sans-serif; }
+main { max-width: 38rem; margin: clamp(1rem, 8vh, 5rem) auto; padding: clamp(1.5rem, 5vw, 3rem); background: #1c302d; border-top: .5rem solid #79bcae; }
+header { border-bottom: 1px solid #54746a; margin-bottom: 2rem; }
+header p, small { font-weight: 600; color: #a9c8c0; }
+h1, h2 { font-family: Georgia, serif; font-weight: 400; line-height: 1.12; }
+h1 { font-size: clamp(3rem, 9vw, 5rem); margin: .4rem 0 1.3rem; }
+h2 { font-size: 2rem; }
+select, button { padding: .7rem 1rem; font: inherit; border: 1px solid #698580; border-radius: .3rem; }
+select { display: block; width: 100%; margin: .5rem 0 1rem; background: #253b36; }
+button { background: #add8c6; color: #122820; cursor: pointer; margin: .2rem 0; }
+.plain { color: #d1ebdb; background: #253b36; }
+:focus-visible { outline: 3px solid #fdb986; outline-offset: 3px; }
